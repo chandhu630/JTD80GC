@@ -1,0 +1,49 @@
+{
+    "receipts": [
+      {
+        "id": 201,
+        "receiptNo": "201",
+        "name": "Abhilash Chiganmi",
+        "accountNumber": "BEPPA4600A",
+        "address": "No.61, 60 Feet Road, NGEF Layout, Mallathahalli, Bangalore - 560056",
+        "amount": "15000",
+        "chequeNo": "000212698477"
+      },
+      {
+        "id": 202,
+        "receiptNo": "202",
+        "name": "Yerram Reddy Vitalam",
+        "accountNumber": "CBCPR1907C",
+        "address": "",
+        "amount": "5000",
+        "chequeNo": "824316727141"
+      },
+      {
+        "id": 203,
+        "receiptNo": "203",
+        "name": "B Channegowda",
+        "accountNumber": "AGBPB6653K",
+        "address": "1425 C&D Block, Poornadrusti Road, Kuvempunagar, Mysore - 570021",
+        "amount": "16000",
+        "chequeNo": "00004715/8661"
+      },
+      {
+        "id": 204,
+        "receiptNo": "204",
+        "name": "Hema Vijayakumar",
+        "accountNumber": "AFPPV7194E",
+        "address": "63, Rukmini Raj, 1st Main, 1st Cross, Vysya Bank Colony, BTM 2nd Stage, Bangalore - 560076",
+        "amount": "10000",
+        "chequeNo": ""
+      },
+      {
+        "id": 205,
+        "receiptNo": "205",
+        "name": "Hema Vijayakumar",
+        "accountNumber": "AFPPV7194E",
+        "address": "63, Rukmini Raj, 1st Main, 1st Cross, Vysya Bank Colony, BTM 2nd Stage, Bangalore - 560076",
+        "amount": "10000",
+        "chequeNo": ""
+      }
+    ]
+  }
